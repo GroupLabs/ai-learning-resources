@@ -48,4 +48,4 @@ https://github.com/Nyandwi/machine_learning_complete
 
 Here's a more rigorous overview on deep learning --or, use it as a guide to your next deep learning interview.
 
-https://bit.ly/3AHIfP8
+https://github.com/BoltzmannEntropy/interviews.ai
